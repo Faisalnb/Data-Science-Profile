@@ -15,7 +15,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 - ### Machine-Learning
 
 	- [Linear_Regression_feb_19](https://github.com/Faisalnb/Data-Science-Profile/blob/main/Machine%20learning/Linear_Regression_feb_19.ipynb): Advertising campaign for sales has some estimators by which sales is predicted using linear regression model. Boston house price prediction and big mart sales predcition.Using Lasso and Ridge for regularization parameters.
-	- [Logistic_Regression_feb_20](https://github.com/Faisalnb/Data-Science-Profile/blob/main/Machine%20learning/Logistic_regression_Feb_20.ipynb): Studied Titanic dataset and applying logistic regression to predict survival of paseengers.
+	- [Logistic_Regression_feb_20](https://github.com/Faisalnb/Data-Science-Profile/blob/main/Machine%20learning/Logistic_regression_Feb_20.ipynb): Studied Titanic dataset and applying logistic regression to predict survival of passengers.
 	- [MovieLens 2_Feature Engineering & recommendor system model](https://github.com/Faisalnb/Data-Science-Profile/blob/main/Projects/MovieLens%202_Feature%20Engineering%26recommendor%20system%20model.ipynb): Analyzing movie ratings by users to predict ratings by user based filtering system ,in process used cosine similarity matrix to predict similar users and their ratings.
 	- [Walmart- Timseries model for predicting sales](https://github.com/Faisalnb/Data-Science-Profile/blob/main/Projects/Walmart-%20Timseries%20model%20for%20predicting%20sales.ipynb): Created Hypothesis for feature importance and built a forecast timeseries model with best accuracy for sales prediction.
 	-
