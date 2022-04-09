@@ -24,6 +24,8 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 - ### Natural Language Processing
 
 	- [Sentiment analysis using NLTK package and Naive bayes model](https://github.com/Faisalnb/Data-Science-Profile/blob/main/Statistics%20using%20python/Sentiment%20analysis%20using%20NLTK%20package%20and%20Naive%20bayes%20model.ipynb): .
-
 	
 	_Tools: NLTK, scikit_
+	
+- ### Tableau-Data visualization
+	- [Tableau public link](https://github.com/Faisalnb/Data-Science-Profile/blob/main/Tableau%20public%20links.txt) - Superstore data visualizations to understand sales patterns and creating interactive dasbhoard for final report.
