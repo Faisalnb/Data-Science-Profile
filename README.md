@@ -12,6 +12,10 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 ## Contents
 
+###Deep Learning
+	-[Model Building using ANN](https://github.com/Faisalnb/Data-Science-Profile/blob/main/Deep%20Learning/Model%20building%20using%20ANN.ipynb):For companies like Lending Club correctly predicting whether or not a loan will be a default is very important. In this project, using the historical data from 2007 to 2015, I  build a deep learning model to predict the chance of default for future loans.Analysis to be done: Perform data preprocessing and build a deep learning prediction model. 
+
+
 - ### Machine-Learning
 
 	- [Linear_Regression_feb_19](https://github.com/Faisalnb/Data-Science-Profile/blob/main/Machine%20learning/Linear_Regression_feb_19.ipynb): Advertising campaign for sales has some estimators by which sales is predicted using linear regression model. Boston house price prediction and big mart sales predcition.Using Lasso and Ridge for regularization parameters.
