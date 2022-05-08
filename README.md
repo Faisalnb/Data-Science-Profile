@@ -7,7 +7,7 @@ Have a visually pleasant experience while  browsing the portfolio.
 _Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
 
 ## Instructions for Running Python Notebooks Locally
-1. Install dependencies using requirements.txt.
+1. Install anaconda Version: 3.10.0 or above.
 2. Run notebooks as usual by using a jupyter notebook server, Vscode etc.
 
 ## Contents
