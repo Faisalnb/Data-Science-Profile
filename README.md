@@ -12,6 +12,17 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 ## Contents
 
+
+- ### Statistics and image processing
+
+     - [AB Testing with Cookie Cats game in playstore](https://github.com/Faisalnb/Data-Science-Profile/blob/main/Deep%20Learning/Model%20building%20using%20ANN.ipynb): The retention period for a particular game is the most important metric to analyze while measuring the success of any open platform games like those in playstore.In this data set we analyze how much users are retained based on testing for 2 scenarios where the game progress is paused at different levels ie. level 30 and level 40  before users provided free pass to next game rounds.By AB testing we can conclude gate 30 is good for our game.
+
+
+     - [Naïve Bees_ Image Loading and Processing](https://github.com/Faisalnb/Data-Science-
+     
+     Data set has images for honey bees and bumble bees .WE want the machine to identify and label samples correctly in different image samples. WE perform data augmentation like crop, flip, transpose as a way to create various kind of images using Pillow library in the process.Also analyzed the matrix data for 2D and 3D images  in grayscale and RGB scale and using arrays analyzed colour channels for 2 class of bee samples.
+     
+     
 - ### Deep Learning
 
      - [Model Building using ANN](https://github.com/Faisalnb/Data-Science-Profile/blob/main/Deep%20Learning/Model%20building%20using%20ANN.ipynb):For companies like Lending Club correctly predicting whether or not a loan will be a default is very important. In this project, using the historical data from 2007 to 2015, I  build a deep learning model to predict the chance of default for future loans.Analysis to be done: Perform data preprocessing and build a deep learning prediction model. 
