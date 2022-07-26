@@ -18,8 +18,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
      - [AB Testing with Cookie Cats game in playstore](https://github.com/Faisalnb/Data-Science-Profile/blob/main/Projects/AB%20tetsing%20on%20Cookie%20Cats%20mobile%20game.ipynb): The retention period for a particular game is the most important metric to analyze while measuring the success of any open platform games like those in playstore.In this data set we analyze how much users are retained based on testing for 2 scenarios where the game progress is paused at different levels ie. level 30 and level 40  before users provided free pass to next game rounds.By AB testing we can conclude gate 30 is good for our game.
 
 
-     - [Naïve Bees_ Image Loading and Processing](https://github.com/Faisalnb/Data-Science-
-     
+     - [Naïve Bees_ Image Loading and Processing](https://github.com/Faisalnb/Data-Science-Profile/blob/main/Projects/Naive%20bees_Image%20loading%20and%20processing.ipynb):    
      Data set has images for honey bees and bumble bees .WE want the machine to identify and label samples correctly in different image samples. WE perform data augmentation like crop, flip, transpose as a way to create various kind of images using Pillow library in the process.Also analyzed the matrix data for 2D and 3D images  in grayscale and RGB scale and using arrays analyzed colour channels for 2 class of bee samples.
      
      
