@@ -15,7 +15,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 - ### Statistics and image processing
 
-     - [AB Testing with Cookie Cats game in playstore](https://github.com/Faisalnb/Data-Science-Profile/blob/main/Deep%20Learning/Model%20building%20using%20ANN.ipynb): The retention period for a particular game is the most important metric to analyze while measuring the success of any open platform games like those in playstore.In this data set we analyze how much users are retained based on testing for 2 scenarios where the game progress is paused at different levels ie. level 30 and level 40  before users provided free pass to next game rounds.By AB testing we can conclude gate 30 is good for our game.
+     - [AB Testing with Cookie Cats game in playstore](https://github.com/Faisalnb/Data-Science-Profile/blob/main/Projects/AB%20tetsing%20on%20Cookie%20Cats%20mobile%20game.ipynb): The retention period for a particular game is the most important metric to analyze while measuring the success of any open platform games like those in playstore.In this data set we analyze how much users are retained based on testing for 2 scenarios where the game progress is paused at different levels ie. level 30 and level 40  before users provided free pass to next game rounds.By AB testing we can conclude gate 30 is good for our game.
 
 
      - [Naïve Bees_ Image Loading and Processing](https://github.com/Faisalnb/Data-Science-
