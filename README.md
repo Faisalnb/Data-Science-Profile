@@ -43,4 +43,5 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 	_Tools: NLTK, scikit_
 	
 - ### Tableau-Data visualization
-	- [Tableau public link](https://github.com/Faisalnb/Data-Science-Profile/blob/main/Tableau%20public%20links.txt) - Superstore data visualizations to understand sales patterns and creating interactive dasbhoard for final report.
+	- [Tableau public link](https://github.com/Faisalnb/Data-Science-Profile/blob/main/Tableau%20public%20links.txt) - Superstore data visualizations to understand sales patterns and creating interactive dasbhoard for final report.Used popular visualizations like line graph, treemap, cross tab, heat map, stacked column chart etc.
+Buliding interative dashboard using filters,parameters and actions. Using cross tables learned about LOD expression, quick table calcuations etc.
